@@ -1,4 +1,0 @@
-import("ROI")
-import("Rmosek")
-importFrom("methods", "getPackageName")
-importFrom("methods", "getFunction")
